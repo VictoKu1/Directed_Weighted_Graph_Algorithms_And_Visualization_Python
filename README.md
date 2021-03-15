@@ -3,32 +3,30 @@
 ## Wiki Contents .
 <ul class="m-0 p-0 list-style-none" data-filterable-for="wiki-pages-filter" data-filterable-type="substring" data-pjax>
         <li class="Box-row">
-          <strong><a class="d-block" href="https://github.com/porat-ah/assignment_3_oop/wiki">Home</a></strong>
+          <strong><a class="d-block" href="/VictoKu1/OOP_Ex3/wiki">Home</a></strong>
         </li>
         <li class="Box-row">
-          <strong><a class="d-block" href="https://github.com//porat-ah/assignment_3_oop/wiki/Interface">Interface</a></strong>
+          <strong><a class="d-block" href="/VictoKu1/OOP_Ex3/wiki/Interface">Interface</a></strong>
+        </li>        
+        <li class="Box-row">
+          <strong><a class="d-block" href="/VictoKu1/OOP_Ex3/wiki/Code-time-comparison">Code time comparison</a></strong>
         </li>
         <li class="Box-row">
-          <strong><a class="d-block" href="https://github.com/porat-ah/assignment_3_oop/wiki/code-time-comparison">Code time comparison</a></strong>
+          <strong><a class="d-block" href="/VictoKu1/OOP_Ex3/wiki/Code-time-comparison-connected-component">Code time comparison connected component</a></strong>
         </li>
         <li class="Box-row">
-          <strong><a class="d-block" href="https://github.com/porat-ah/assignment_3_oop/wiki/code-time-comparison-Connected-Component">Code time comparison Connected Component</a></strong>
+          <strong><a class="d-block" href="/VictoKu1/OOP_Ex3/wiki/Code-time-comparison-connected-components">Code time comparison connected components</a></strong>
         </li>
         <li class="Box-row">
-          <strong><a class="d-block" href="https://github.com//porat-ah/assignment_3_oop/wiki/code-time-comparison-Connected-Components">Code time comparison Connected Components</a></strong>
+          <strong><a class="d-block" href="/VictoKu1/OOP_Ex3/wiki/Code-time-comparison-shortest-path">Code time comparison shortest path</a></strong>
         </li>
         <li class="Box-row">
-          <strong><a class="d-block" href="https://github.com/porat-ah/assignment_3_oop/wiki/Code-time-comparison-shortest-path">Code time comparison shortest path</a></strong>
+          <strong><a class="d-block" href="/VictoKu1/OOP_Ex3/wiki/Simple-Code">Simple Code</a></strong>
         </li>
          <li class="Box-row">
-          <strong><a class="d-block" href="https://github.com/porat-ah/assignment_3_oop/wiki/Simple-Code">Simple Code</a></strong>
+          <strong><a class="d-block" href="/VictoKu1/OOP_Ex3/wiki/Dijkstra&#39;s-shortest-path-algorithm">Dijkstra&#39;s shortest path algorithm</a></strong>
         </li>
-        <li class="Box-row">
-          <strong><a class="d-block" href="https://github.com//porat-ah/assignment_3_oop/wiki/Dijkstra&#39;s-shortest-path-algorithm">Dijkstra&#39;s shortest path algorithm</a></strong> 
-        </li>         
     </ul>
-
-
 ## Description.
 
 The following project represents a data structure for a directed-weighted graph data structure, which uses python dictionary data structure to achieve O(1) complexity for searching and inputting specific nodes.
