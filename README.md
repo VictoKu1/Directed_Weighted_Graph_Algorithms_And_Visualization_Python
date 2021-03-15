@@ -1,4 +1,4 @@
-# OOP Course Exercise 3 .
+# OOP Course Exercise 3: Directed Weighted Graph - Python Implementation + Visualization.
 ## Wiki Contents .
 <ul class="m-0 p-0 list-style-none" data-filterable-for="wiki-pages-filter" data-filterable-type="substring" data-pjax>
         <li class="Box-row">
